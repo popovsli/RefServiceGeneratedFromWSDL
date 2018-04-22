@@ -1,0 +1,16 @@
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefServiceHostInISS\bin\RefServiceHostInISS.dll.config
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefServiceHostInISS\bin\RefServiceHostInISS.dll
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefServiceHostInISS\bin\RefServiceHostInISS.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefServiceHostInISS\bin\RefService.dll
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefServiceHostInISS\bin\RefService.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefServiceHostInISS\obj\Debug\RefServiceHostInISS.csprojResolveAssemblyReference.cache
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefServiceHostInISS\obj\Debug\RefServiceHostInISS.dll
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefServiceHostInISS\obj\Debug\RefServiceHostInISS.pdb
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefServiceHostInISS\bin\RefServiceHostInISS.dll.config
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefServiceHostInISS\bin\RefServiceHostInISS.dll
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefServiceHostInISS\bin\RefServiceHostInISS.pdb
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefServiceHostInISS\bin\RefService.dll
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefServiceHostInISS\bin\RefService.pdb
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefServiceHostInISS\obj\Debug\RefServiceHostInISS.csprojResolveAssemblyReference.cache
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefServiceHostInISS\obj\Debug\RefServiceHostInISS.dll
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefServiceHostInISS\obj\Debug\RefServiceHostInISS.pdb

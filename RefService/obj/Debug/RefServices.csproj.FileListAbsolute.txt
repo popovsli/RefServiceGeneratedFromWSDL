@@ -1,0 +1,16 @@
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefService\bin\Debug\RefService.dll.config
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefService\bin\Debug\RefService.dll
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefService\bin\Debug\RefService.pdb
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefService\bin\Debug\Thinktecture.ServiceModel.Extensions.Metadata.dll
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefService\obj\Debug\RefServices.csprojResolveAssemblyReference.cache
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefService\obj\Debug\RefService.dll
+C:\Users\nrpopov\documents\visual studio 2013\Projects\RefServiceGeneratedFromWSDL\RefService\obj\Debug\RefService.pdb
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefService\bin\RefService.dll.config
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefService\bin\RefService.dll
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefService\bin\RefService.pdb
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefService\bin\Debug\RefService.dll.config
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefService\bin\Debug\RefService.dll
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefService\bin\Debug\RefService.pdb
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefService\obj\Debug\RefService.dll
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefService\obj\Debug\RefService.pdb
+C:\Users\KOKO\Desktop\RefServiceGeneratedFromWSDL\RefService\obj\Debug\RefServices.csprojResolveAssemblyReference.cache

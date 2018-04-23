@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/RefService/obj/Debug/RefServices.csproj.CoreCompileInputs.cache
+/RefServiceHostInISS/obj/Debug/RefServiceHostInISS.csproj.CoreCompileInputs.cache
